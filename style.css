@@ -8,7 +8,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .header{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#FFE1AF);
 }
 .header .row{
     margin-top: 70px;
@@ -199,7 +199,7 @@ p{
 
 /*---------- offer -----------*/
 .offer{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#FFE1AF);
     margin-top: 70px;
     padding: 30px 0;
 }
@@ -361,7 +361,7 @@ select:focus{
     color: #fff;
 }
 
-/*--------sibgle product details-------*/
+/*--------single product details-------*/
 
 .single-product
 {
@@ -408,15 +408,6 @@ input:focus{
     color: #ff523b;
     margin-left: 5px;
 }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -508,7 +499,7 @@ th:last-child{
 /*------account page------*/
 .account-page{
     padding: 50px 0;
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#FFE1AF);
 
 }
 .form-container
